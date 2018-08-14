@@ -1,25 +1,12 @@
 // Exports for data arrays
 // =============================================================
 
-let confirmedTables = [
+exports.confirmedTables = [
   {
-    reservationName: '',
-    reservationEmail: '',
-    reservationID: '',
-    phoneNum: ''
   }
 ];
 
-let waitlistTable = [
+exports.waitlistTable = [
   {
-    reservationName: '',
-    reservationEmail: '',
-    reservationID: '',
-    phoneNum: ''
   }
 ];
-
-// Exports for data arrays
-// =============================================================
-module.exports = confirmedTables;
-module.exports = waitlistTable
